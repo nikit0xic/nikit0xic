@@ -6,10 +6,11 @@
 
 
 ## **Tech i sue daily**
-- Kubernetes
-- Docker
-- Golang
-- Unix/Linux (Ubuntu, RedHat, CentOS, MacOS, Kali)
+- Kubernetes & helm
+- Docker & compose
+- Golang & Java
+- Unix/Linux (Ubuntu, RedHat, MacOS)
+- GitLab CI/CD, GitHub Actions, Ansible
 
 --- 
 _Website under construction_
