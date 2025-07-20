@@ -8,7 +8,7 @@
 ## **Fields of interests**
 - Kubernetes, helm
 - Docker, compose
-- Golang, Java, C
+- Golang, Java
 - Unix/Linux (Ubuntu, RedHat, MacOS)
 - GitLab CI/CD, GitHub Actions, Ansible
 
@@ -17,5 +17,5 @@ _Website under construction_
 
 <!-- 
 - ArgoCD, Flux CD
-- Kuztomize, 
+- Kuztomize, C
 -->
