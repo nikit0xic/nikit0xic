@@ -5,7 +5,7 @@
 - Actually not a toxic person, that's just sounds dope  
 
 
-## **Preferable tech**
+## **Tech i sue daily**
 - Kubernetes
 - Docker
 - Golang
