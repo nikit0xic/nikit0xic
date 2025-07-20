@@ -14,8 +14,4 @@
 --- 
 _Website under construction_
 
-<!--
-**nikit0xic/nikit0xic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
+<!-- Hello world! -->
