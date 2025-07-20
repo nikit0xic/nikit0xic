@@ -8,7 +8,7 @@
 ## **Fields of interests**
 - Kubernetes, helm
 - Docker, compose
-- Golang, Java
+- Golang, Java, C
 - Unix/Linux (Ubuntu, RedHat, MacOS)
 - GitLab CI/CD, GitHub Actions, Ansible
 
