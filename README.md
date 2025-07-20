@@ -5,7 +5,7 @@
 - Actually not a toxic person, that's just sounds dope  
 
 
-## **Tech i sue daily**
+## **Fields of interests**
 - Kubernetes & helm
 - Docker & compose
 - Golang & Java
