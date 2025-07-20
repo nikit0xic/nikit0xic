@@ -4,7 +4,7 @@
 - Took inspiration from tennis, game industry, art, and people from open-source community
 - Actually not a toxic person, that's just sounds dope  
 
----
+
 ## **Preferable tech**
 - Kubernetes
 - Docker
