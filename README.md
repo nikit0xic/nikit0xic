@@ -1,16 +1,20 @@
-## Hi there 👋
+## Profile
+- 🎓 MSc in CS (Infocommunications and Sowtware Engineering)
+- Once I'v created a startup that failed - that was the beginning of my career with software
+
+
+---
+## Preferable tech
+- Kubernetes
+- Docker
+- Golang
+- Unix/Linux (Ubuntu, RedHat, CentOS, MacOS, Kali)
+
+--- 
+**nikit0xic/nikit0xic** is a ✨ _special_ ✨
 
 <!--
 **nikit0xic/nikit0xic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
