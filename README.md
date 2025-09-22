@@ -1,7 +1,7 @@
 ## **Profile**
 - MSc in CS 
 - Once I'v created a startup that failed - that was the beginning of my career with software  
-- Took inspiration from tennis, game industry, art, and people around
+- Took inspiration from tennis, game industry, art and people around
 - Actually not a toxic person, that's just sounds cool  
 
 ---
