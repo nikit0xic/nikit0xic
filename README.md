@@ -4,18 +4,28 @@
 - Took inspiration from tennis, game industry, art, and people from open-source community
 - Actually not a toxic person, that's just sounds  
 
+---
 
 ## **Fields of interests**
-- Kubernetes, helm
-- Docker, compose
+- Kubernetes, helm, kuztomize
 - Golang, Java
-- Unix/Linux (Ubuntu, RedHat, MacOS)
+- Docker, Unix/Linux (Ubuntu, RedHat, Darwin)
 - GitLab CI/CD, GitHub Actions, Ansible
 
 --- 
-_Website under construction_
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- 
-- ArgoCD, Flux CD
-- Kuztomize, C
+     what are you looking for?
 -->
