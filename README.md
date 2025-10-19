@@ -1,16 +1,42 @@
-## Hi there 👋
+## **Profile**
+- MSc in Computer Science with honors (GPA: 3.95/4.00) from a university ranked #152 globally in Computer Science & IT by QS World University Rankings.
+- Co-founded an EdTech startup that raised $18K in seed funding — it didn’t take off, but it shaped my approach to building real-world software.
+- Actually not a toxic person, that's just sounds cool  
 
-<!--
-**nikit0xic/nikit0xic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## **Fields of interests**
+- Kubernetes, helm, kuztomize
+- Golang, Java
+- Docker, Unix/Linux (Ubuntu, RedHat, Darwin)
+- GitLab CI/CD, GitHub Actions, Ansible
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- How nice to be on your own for a bit and do what you like. -->
