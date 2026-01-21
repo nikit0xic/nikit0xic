@@ -10,7 +10,7 @@
 - Golang, Java
 - Docker, Unix/Linux (Ubuntu, RedHat, Darwin)
 - GitLab CI/CD, GitHub Actions, Ansible
-
+- Terraform, Terragrunt
 --- 
 
 
