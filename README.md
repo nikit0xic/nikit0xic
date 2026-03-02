@@ -1,5 +1,6 @@
 ## **Profile**
-- MSc in Computer Science with honors (GPA: 3.95/4.00) from a university ranked #152 globally in Computer Science & IT by QS World University Rankings.
+- Yet another MSc in Computer Science with honors (GPA: 3.95/4.00)
+- Alma mater ranked #152 globally in Computer Science & IT by QS World University Rankings.
 ---
 
 ## **Fields of interests**
