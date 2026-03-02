@@ -6,7 +6,7 @@
 ## **Fields of interests**
 - Kubernetes, helm, kuztomize
 - Golang, Java
-- Docker, Unix/Linux (Ubuntu, RedHat, Darwin)
+- Docker, *nix (Deb/Darwin)
 - GitLab CI/CD, GitHub Actions, Ansible
 - Terraform, Terragrunt
 --- 
