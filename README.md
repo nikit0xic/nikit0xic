@@ -8,7 +8,7 @@
 - Golang, Java
 - Docker, *nix (Deb/Darwin)
 - GitLab CI/CD, GitHub Actions, Ansible
-- Terraform, Terragrunt
+- Terraform, Terragrunt, OpenTofu
 --- 
 
 
