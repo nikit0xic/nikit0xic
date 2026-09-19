@@ -1,6 +1,6 @@
 ## **Profile**
 - Yet another MSc in Computer Science grad with honors (GPA: 3.95/4.00)
-- Alma mater ranked #152 globally in Computer Science & IT by QS World University Rankings.
+- Alumni of ranked #152 globally in Computer Science & IT by QS World University Rankings alma mater.
 ---
 
 ## **Fields of personal interests**
