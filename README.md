@@ -10,6 +10,11 @@
 - GitLab CI/CD, GitHub Actions, Ansible
 - Terraform, Terragrunt, OpenTofu
 --- 
+## Also in at work responsible and experienced with
+- Elasticsearch production clusters as cache system
+- Kafka + Kraft and Kafka-connect CDC
+
+Facilitating the fulfillment of more than 65 million orders per year in Eastern Europe as DevOps/SRE/Platform engineer. 
 
 
 
